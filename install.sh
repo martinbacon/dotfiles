@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 echo 'Linking settings...'
 
 for f in '.npmrc'; do
